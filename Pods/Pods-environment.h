@@ -6,9 +6,9 @@
 // project.
 
 
-// RATreeView
-#define COCOAPODS_POD_AVAILABLE_RATreeView
-#define COCOAPODS_VERSION_MAJOR_RATreeView 0
-#define COCOAPODS_VERSION_MINOR_RATreeView 2
-#define COCOAPODS_VERSION_PATCH_RATreeView 2
+// MCSwipeTableViewCell
+#define COCOAPODS_POD_AVAILABLE_MCSwipeTableViewCell
+#define COCOAPODS_VERSION_MAJOR_MCSwipeTableViewCell 2
+#define COCOAPODS_VERSION_MINOR_MCSwipeTableViewCell 1
+#define COCOAPODS_VERSION_PATCH_MCSwipeTableViewCell 0
 

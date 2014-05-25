@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import <MCSwipeTableViewCell.h>
+
 @interface BLViewController : UIViewController
 
 @end
