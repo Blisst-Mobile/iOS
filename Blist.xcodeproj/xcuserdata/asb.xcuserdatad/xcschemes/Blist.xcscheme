@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "46549D9B193139B200598948"
+               BlueprintIdentifier = "46A9BA67193192DD002C85F0"
                BuildableName = "Blist.app"
                BlueprintName = "Blist"
                ReferencedContainer = "container:Blist.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "46549DBC193139B300598948"
+               BlueprintIdentifier = "46A9BA88193192DD002C85F0"
                BuildableName = "BlistTests.xctest"
                BlueprintName = "BlistTests"
                ReferencedContainer = "container:Blist.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "46549D9B193139B200598948"
+            BlueprintIdentifier = "46A9BA67193192DD002C85F0"
             BuildableName = "Blist.app"
             BlueprintName = "Blist"
             ReferencedContainer = "container:Blist.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "46549D9B193139B200598948"
+            BlueprintIdentifier = "46A9BA67193192DD002C85F0"
             BuildableName = "Blist.app"
             BlueprintName = "Blist"
             ReferencedContainer = "container:Blist.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "46549D9B193139B200598948"
+            BlueprintIdentifier = "46A9BA67193192DD002C85F0"
             BuildableName = "Blist.app"
             BlueprintName = "Blist"
             ReferencedContainer = "container:Blist.xcodeproj">
