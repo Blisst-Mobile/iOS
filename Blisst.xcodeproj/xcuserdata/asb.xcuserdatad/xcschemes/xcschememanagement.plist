@@ -4,25 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-MCSwipeTableViewCell.xcscheme</key>
+		<key>Blisst.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C5468BE1E9A54BC09FEE3089</key>
+		<key>4655A74A1931F35E007D4407</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F3E7420AB1E7452AB879F97C</key>
+		<key>4655A76B1931F35E007D4407</key>
 		<dict>
 			<key>primary</key>
 			<true/>
