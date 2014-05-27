@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A952160-FDBB-499D-A65E-626A8AAA807C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Blist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9F868A3-01EA-4643-9D86-B06EF4D17F5D</key>
+		<string>https://github.com/AndrewSB/blist-ios-task-manager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Blist.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9F868A3-01EA-4643-9D86-B06EF4D17F5D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AndrewSB/blist-ios-task-manager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9F868A3-01EA-4643-9D86-B06EF4D17F5D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9F868A3-01EA-4643-9D86-B06EF4D17F5D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>blist-ios-task-manager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
