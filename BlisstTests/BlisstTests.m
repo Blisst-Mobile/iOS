@@ -2,8 +2,8 @@
 //  BlisstTests.m
 //  BlisstTests
 //
-//  Created by Andrew Breckenridge on 5/25/14.
-//  Copyright (c) 2014 Andrew Breckenridge. All rights reserved.
+//  Created by Andrew Breckenridge on 6/2/14.
+//  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
