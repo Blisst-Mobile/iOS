@@ -8,6 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
-@interface BAListObject : NSObject
+@interface BAListObject : NSManagedObject
+
+@property (nonatomic, strong) NSString *name;
+@property (nonatomic, strong) NSNumber *numOfTasks;
+@property (nonatomic, strong) NSNumber *numOfCompleted;
+@property (nonatomic, assign) BOOL *completed;
+@property (nonatomic, strong) NSArray *tasks;
 
 @end

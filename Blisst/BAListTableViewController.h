@@ -8,6 +8,16 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BAListTableViewController : UITableViewController
+#import "BAAppDelegate.h"
+
+#import "BAListObject.h"
+#import "BATaskObject.h"
+
+@interface BAListTableViewController : UITableViewController <NSFetchedResultsControllerDelegate>
+
+@property (nonatomic, strong) BAAppDelegate *appDelegate;
+@property (nonatomic, strong) NSManagedObjectContext *managedObjectContext;
+
+- (IBAction)addButtonHit:(id)sender;
 
 @end

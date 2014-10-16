@@ -10,4 +10,6 @@
 
 @implementation BAListObject
 
+@dynamic name, numOfCompleted, numOfTasks, completed, tasks;
+
 @end

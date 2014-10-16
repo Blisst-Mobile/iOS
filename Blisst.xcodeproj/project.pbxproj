@@ -489,6 +489,7 @@
 				46D6AA7E193CBD1300C1B094 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46D6AA7F193CBD1300C1B094 /* Build configuration list for PBXNativeTarget "BlisstTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +498,7 @@
 				46D6AA81193CBD1300C1B094 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
